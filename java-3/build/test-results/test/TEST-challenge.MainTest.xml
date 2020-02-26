@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="challenge.MainTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-02-22T19:00:19" hostname="juliana-Inspiron-3584" time="3.294">
+  <properties/>
+  <testcase name="q1" classname="challenge.MainTest" time="0.994"/>
+  <testcase name="q2" classname="challenge.MainTest" time="0.577"/>
+  <testcase name="q3" classname="challenge.MainTest" time="0.296"/>
+  <testcase name="q4" classname="challenge.MainTest" time="0.802"/>
+  <testcase name="q5" classname="challenge.MainTest" time="0.304"/>
+  <testcase name="q6" classname="challenge.MainTest" time="0.31"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
